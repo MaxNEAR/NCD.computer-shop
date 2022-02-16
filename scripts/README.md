@@ -25,7 +25,7 @@ It uses the following setup:
 
   # for example
   # export CONTRACT=dev-1644945903363-79757305293203
-  # export OWNER=sherif.testnet
+  # export OWNER=maxnear.testnet
   ```
 
 - Commands
