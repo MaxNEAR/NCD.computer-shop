@@ -31,21 +31,18 @@ ComputerShopContract located in src/project/assembly/index.ts
 **`1.dev-deploy.sh`**
 
 This video shows the build and deployment of the contract.
-
-[![asciicast](https://asciinema.org/a/409575.svg)](https://asciinema.org/a/409575)
+https://www.loom.com/share/657a3b11a7f14d58ab6243aa75349f7a
 
 **`2.use-contract.sh`**
 
-This video shows contract methods being called.  You should run the script twice to see the effect it has on contract state.
-
-[![asciicast](https://asciinema.org/a/409577.svg)](https://asciinema.org/a/409577)
+This video shows contract methods being called.
+https://www.loom.com/share/12d49bd09a41435cbb600daacd544d4b
 
 **`3.cleanup.sh`**
 
 This video shows the cleanup script running.  Make sure you add the `BENEFICIARY` environment variable. The script will remind you if you forget.
+https://www.loom.com/share/4daf307c024c4040ac458a05764899da
 
 ```sh
 export BENEFICIARY=<your-account-here>   # this account receives contract account balance
 ```
-
-[![asciicast](https://asciinema.org/a/409580.svg)](https://asciinema.org/a/409580)
