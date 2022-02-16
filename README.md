@@ -14,6 +14,21 @@ The project contains:
 
 This project required:
 - NodeJS version 14.*
+- installed yarn (npm i -g yarn)
+- installed near-cli (npm i -g near-cli)
+
+## Getting started
+(see below for video recordings of each of the following steps)
+
+1) clone this repo to a local folder
+2) run "yarn"
+3) run "yarn build"
+4) run tests "yarn test". Check that all tests are passed.
+
+Next steps should be run only in bash
+5) run "./scripts/1.dev-deploy.sh"
+6) run "./scripts/2.use-contract.sh"
+7) run "./scripts/3.cleanup.sh"
 
 ### Project structure
 
