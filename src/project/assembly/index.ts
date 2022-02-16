@@ -73,7 +73,5 @@ export class ComputerShopContract {
   private _storageReport(): void {
     logging.log("Contract: " + Context.contractName);
     logging.log("Storage: " + Context.storageUsage.toString() + " bytes");
-    /*logging.log("Prepaid gas" + Context.prepaidGas.toString());
-    logging.log("Actual gas" + Context.usedGas.toString() + " gas");*/
   }
 }
