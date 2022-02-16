@@ -26,6 +26,7 @@ This project required:
 4) run tests "yarn test". Check that all tests are passed.
 
 Next steps should be run only in bash
+
 5) run "./scripts/1.dev-deploy.sh"
 6) run "./scripts/2.use-contract.sh"
 7) run "./scripts/3.cleanup.sh"
